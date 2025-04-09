@@ -1,4 +1,4 @@
-# Peer Review : 
+# Peer Review : Gabriel Richards
 
 [Gabriel's Project](https://github.com/gjrich/mlp4/blob/master/classification_project.ipynb)
 
