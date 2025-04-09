@@ -1,5 +1,9 @@
  # Mushroom Midterm 
 
+ Name: Mindy Cruz
+
+ Date 4/6/2025
+
 ## Objective:
 
 This project demonstrates your ability to apply classification modeling techniques to a real-world dataset. You will:
@@ -15,13 +19,17 @@ __Intoduction:__
 
 - using the UCI Mushroom Dataset, I will to predict whether a mushroom is poisonous or edible.
 
+Links
+
 [Midterm Notebook](https://github.com/mindy0cruz/applied-ml-mcruz/blob/main/midterm/classification_mcruz.ipynb)
-[Peer Review](URL)
+
+[Peer Review](https://github.com/mindy0cruz/applied-ml-mcruz/blob/main/midterm/PeerReview.md)
 
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
+__Project Setup__
+
+1. Create folder in Github repo for the midterm
+2. Downloaded data that was were using for this project. In this case I chose the Mushroom dataset.
+3. After setting up all my files for this project which include the notebook, README.md and peer review. I activated my virtual enviroment by entering the prompt
+ .venv\Scripts\activate
+ 4. Once confirmed I began my project and saved an pushed offten. 
